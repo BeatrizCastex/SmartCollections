@@ -205,7 +205,7 @@ Example (toolbar button via user patch):
   ```lua
   Dispatcher:execute({ "smartcollections_filter" })
 
-The user interface may be a bit cluncky for the moment, I have some ideas for better design but am not sure which direction to go to. If anyone has suggestions it would be appreciated. 
+The user interface may be a bit clunky for the moment, I have some ideas for better design but am not sure which direction to go to. If anyone has suggestions it would be appreciated. 
 
 I have never done something like this before so a lot of this was pieced together from other plugins and patches and chat-gpt. I made this mostly for myself because I desperatly needed something that let me perform more complex metadata searches then what I was seeing shipped with KOReader. 
 
