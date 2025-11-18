@@ -21,8 +21,6 @@ This plugin is self‑contained and does not modify KOReader’s core files.
 
    - If you run KOReader from a folder:
      - Put it in `koreader/plugins/`
-   - If you use `KO_HOME` (e.g. on desktop builds):
-     - Put it in `$KO_HOME/plugins/`
 
 3. Restart KOReader.
 
