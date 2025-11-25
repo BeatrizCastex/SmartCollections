@@ -11,6 +11,8 @@ It reuses the metadata KOReader already knows about (especially from Calibre) an
 
 This plugin is self‑contained and does not modify KOReader’s core files.
 
+**Note:** This plugin works better if you connect your device directly to calibre when transferring metadata rather than going through the calibre metadata plugin. The calibre metadata plugin that ships with KOReader does not pass custom columns into the metadata JSON file, so you won't be able to search by metadata unless you connect the device directly (i.e. as a folder)
+
 ## Installation
 
 1. Download or clone this plugin so that you have a folder named:
